@@ -1,4 +1,4 @@
 # Avito_Parser
 
-Search for a specific denomination of coins on Avito<br>
+Search for coins of a certain year on Avito<br>
 Proxy is used
